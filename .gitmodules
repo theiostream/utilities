@@ -1,3 +1,6 @@
 [submodule "theos"]
 	path = theos
 	url = git://github.com/DHowett/theos
+[submodule "framework"]
+	path = framework
+	url = git://github.com/DHowett/theos
