@@ -7,8 +7,6 @@
 %%%%%*/
 
 #include <stdio.h>
-#include <sys/types.h>
-#include <regex.h>
 #import <AddressBook/AddressBook.h>
 #import <CoreFoundation/CoreFoundation.h>
 
