@@ -9,6 +9,11 @@
 #% theiostream utilities
 ##%%%%%
 
+##%%
+# It would be a nice suggestion to have it clone the theos git repo instead of installing
+# this package, which might have gotten outdated.
+##%%
+
 echo "deb http://coredev.nl/cydia iphone main" > /etc/apt/sources.list.d/coredev1.nl.list
 echo "deb http://nix.howett.net/theos ./" > /etc/apt/sources.list.d/howett1.net.list
 
