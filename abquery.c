@@ -1,6 +1,7 @@
 /*%%%%%
 %% abquery.c
 %% Created by theiostream in 24/07/2012
+%% Original tool by Erica Sadun, from 'Erica Utilities'
 %%
 %% abquery -- Search your address book by (a relatively innacurate) name.
 %% theiostream utilities

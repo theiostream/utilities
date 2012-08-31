@@ -1,3 +1,12 @@
+/*%%%%%
+%% say.m
+%% Created by theiostream in 22/05/2012
+%% Original tool by ashikase, from the 'iphone-tweaks' Google Code repo.
+%%
+%% say -- have the phone "say" something through VoiceServices APIs.
+%% theiostream utilities
+%%%%%*/
+
 /**
  * Name: say
  * Description: example text-to-speech command for iPhone OS,

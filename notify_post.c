@@ -1,3 +1,12 @@
+/*%%%%%
+%% notify_post.c
+%% Created by theiostream in 30/08/2012
+%% Original tool by BigBoss, inside 'bigbosshackertools'
+%%
+%% notify_post -- post a darwin notification from the command-line
+%% theiostream utilities
+%%%%%*/
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
